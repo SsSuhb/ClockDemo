@@ -324,7 +324,7 @@
         make.right.equalTo(self.timeTextButton.mas_right);
         make.size.width.equalTo(self.actionButton.mas_width);
         make.size.height.equalTo(self.actionButton.mas_height);
-        make.top.equalTo(self.actionButton.mas_top);z
+        make.top.equalTo(self.actionButton.mas_top);
     }];
     
     //添加tableView的约束
